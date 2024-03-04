@@ -1,5 +1,7 @@
 ![Wallpaper](https://images7.alphacoders.com/133/1337390.png)
 
+Hi 👋, Athalla Khosyi
+
 🌱 I’m currently learning JavaScript, TailwindCSS, PHP
 
 📫 How to reach me https://www.instagram.com/marc_zyyy/

@@ -1,4 +1,4 @@
-![Wallpaper](https://images7.alphacoders.com/133/1337390.png)
+![Wallpaper]file:///D:/Visual%20Studio/Project3/Gambar/Picture2.png
 
 Hi 👋, Athalla Khosyi
 

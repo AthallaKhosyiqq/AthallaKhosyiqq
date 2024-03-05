@@ -1,4 +1,4 @@
-![Wallpaper]file:///D:/Visual%20Studio/Project3/Gambar/Picture2.png
+![file:///D:/Visual%20Studio/Project3/Gambar/Picture2.png](https://github.com/Athallakhosyiqq/Athallakhosyiqq/blob/main/o.png)
 
 Hi 👋, Athalla Khosyi
 

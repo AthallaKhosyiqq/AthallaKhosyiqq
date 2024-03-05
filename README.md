@@ -1,6 +1,6 @@
 ![file:///D:/Visual%20Studio/Project3/Gambar/Picture2.png](https://github.com/Athallakhosyiqq/Athallakhosyiqq/blob/main/o.png)
 
-Hi 👋, Athalla Khosyi
+<h1 align="center">Hi 👋, I'm Athalla Khosyi </h1>
 
 🌱 I’m currently learning JavaScript, TailwindCSS, PHP
 
